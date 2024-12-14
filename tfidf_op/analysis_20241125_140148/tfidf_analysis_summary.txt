@@ -1,0 +1,59 @@
+TF-IDF Analysis Summary
+=====================
+
+Document Statistics:
+Total documents analyzed: 1728
+Average document length: 9.2 characters
+Unique terms analyzed: 281
+
+Top 20 Most Important Terms (by average TF-IDF):
+         term  avg_tfidf  docs_present
+175    player   0.104387           206
+19     camera   0.053834           101
+228  software   0.048469            93
+160     phone   0.030449            59
+12    battery   0.029853            78
+164   picture   0.028277            73
+229     sound   0.025579            75
+224      size   0.025404            61
+191   quality   0.021229            72
+184     price   0.020132            44
+52        dvd   0.018241            48
+65    feature   0.015751            35
+214    screen   0.014902            31
+32    control   0.013737            30
+252       use   0.013383            32
+26       case   0.012984            24
+170      play   0.012744            33
+215    scroll   0.012300            27
+269    weight   0.011665            31
+18     button   0.011467            22
+
+TF-IDF Score Statistics:
+Mean TF-IDF score: 0.0041
+Median TF-IDF score: 0.0016
+Max TF-IDF score: 0.1044
+
+
+Most Unique Terms (high TF-IDF, present in <10% of documents):
+         term  avg_tfidf  docs_present
+19     camera   0.053834           101
+228  software   0.048469            93
+160     phone   0.030449            59
+12    battery   0.029853            78
+164   picture   0.028277            73
+229     sound   0.025579            75
+224      size   0.025404            61
+191   quality   0.021229            72
+184     price   0.020132            44
+52        dvd   0.018241            48
+65    feature   0.015751            35
+214    screen   0.014902            31
+32    control   0.013737            30
+252       use   0.013383            32
+26       case   0.012984            24
+170      play   0.012744            33
+215    scroll   0.012300            27
+269    weight   0.011665            31
+18     button   0.011467            22
+113      life   0.011346            37
