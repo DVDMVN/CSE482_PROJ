@@ -1,0 +1,4 @@
+Analysis Timestamp: 2024-11-25 13:57:28
+Total Files Processed: 5
+Total Records Analyzed: 1727
+Text Column Analyzed: sentiment_dict

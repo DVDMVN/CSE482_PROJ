@@ -1,0 +1,31 @@
+Enhanced Sentiment Analysis Summary
+================================
+
+Sentiment Distribution:
+sentiment
+neutral              1642
+very positive          58
+very negative          16
+positive                7
+slightly positive       4
+Name: count, dtype: int64
+
+Average Scores by Sentiment Category:
+                   negative   neutral  positive  compound
+sentiment                                                
+neutral            0.000000  0.996955  0.000000  0.000000
+positive           0.000000  0.607286  0.392714  0.357686
+slightly positive  0.000000  0.292250  0.707750  0.051600
+very negative      0.763125  0.236875  0.000000 -0.257337
+very positive      0.000000  0.183155  0.816845  0.349138
+
+Confidence Score Statistics:
+count    1727.000000
+mean        0.037795
+std         0.172642
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max         1.000000
+Name: sentiment_confidence, dtype: float64

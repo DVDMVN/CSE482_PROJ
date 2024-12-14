@@ -1,0 +1,76 @@
+Text Analysis Summary
+===================
+
+Document Statistics:
+Total documents analyzed: 1728
+Average document length: 9.2 characters
+Unique words analyzed: 201
+
+Top 20 Most Frequent Words:
+          frequency
+player          206
+camera          101
+software         93
+battery          80
+sound            75
+picture          73
+quality          72
+size             61
+phone            59
+dvd              48
+price            44
+life             37
+feature          35
+play             33
+use              32
+weight           31
+screen           31
+mode             30
+control          30
+scroll           27
+
+Top 20 Most Important Words (TF-IDF):
+          tfidf_score
+player       0.107568
+camera       0.054637
+software     0.049189
+battery      0.032671
+picture      0.031436
+phone        0.030813
+sound        0.029811
+size         0.026943
+quality      0.026414
+dvd          0.021664
+price        0.021310
+feature      0.017023
+screen       0.015248
+control      0.014571
+life         0.014385
+use          0.014321
+play         0.014153
+weight       0.013151
+scroll       0.013140
+case         0.013127
+
+Top 20 Most Common Bigrams:
+                  frequency
+battery life             37
+sound quality            29
+customer service         21
+picture quality          21
+size weight              14
+dvd player               12
+scroll wheel             11
+headphone jack           10
+auto mode                 9
+optical zoom              8
+id tag                    7
+play dvd                  7
+nomad explorer            6
+manual mode               6
+voice dialing             6
+scene mode                6
+photo quality             5
+user interface            4
+cd rip                    4
+auto setting              4
