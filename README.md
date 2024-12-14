@@ -12,7 +12,9 @@ Data Folders:
 
 Notebooks:
 - `load_datasets.ipynb`: notebook used for parsing the raw review text content into formatted dataframes and .csv files
-- `text_processing.ipynb`: notebook used for cleaning and preprocessing text content for use with models
+- Preprocessing Notebook: `BERT Model Sentiment Analysis.ipynb`
+  - Notebook used for cleaning and preprocessing text content for use with other models. Processed Data stored into `processed_data`. 
+  - The cleaned data is then used to train the BERT-Based Model
 
 ---
 
